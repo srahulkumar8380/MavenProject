@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;git&apos; to &apos;MavenProject&apos;" description="Rename resource &apos;git&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/git" name="MavenProject" stamp="1644209147345" updateReferences="true"/>
+</session>
